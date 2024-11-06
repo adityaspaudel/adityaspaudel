@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 [![My github stats](https://github-readme-stats.vercel.app/api?username=adityaspaudel)](https://github.com/adityaspaudel/github-readme-stats)
 -->
 
-# 👋 Hi there, I'm **Aaditya Paudel**
+# <Mark> 👋 Hi there, I'm Aaditya Paudel</mark>
 
 - 🎓 I'm a bachelor degree graduate in <ins>Bachelor of Computer Application (BCA)</ins>.
 - 🥰 I'm a passionate web developer specializing in modern <ins>JavaScript with Reactjs, Nextjs</ins> and <ins>Nodejs with Expressjs</ins> and <ins>Responsive Web Design</ins>.
