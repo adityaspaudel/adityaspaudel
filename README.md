@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🎓 I'm a bachelor degree graduate in <ins>Bachelor of Computer Application (BCA)</ins>.
 - 🥰 I'm a passionate web developer specializing in modern <ins>JavaScript with Reactjs, Nextjs</ins> and <ins>Nodejs with Expressjs</ins> and <ins>Responsive Web Design</ins>.
 - 🔭 I’m currently focussed on my team project [augMern](https://github.com/kaylinkhanal/augMern), and other two personal projects [miniProjects](https://github.com/adityaspaudel/miniProjects), [socialmedia](https://github.com/adityaspaudel/miniProjects)
-- 🌱 I’m actively learning MERN stack at [BroadwayInfosis](https://broadwayinfosys.com/) and self teaching myself with online documentation with [w3Schools](https://www.w3schools.com/), [MDN web docs](https://developer.mozilla.org/en-US/docs/Learn), [freeCodeCamp](https://www.freecodecamp.org/) etc like popular web documentation & practicing online platforms.
+- 🌱 I’m actively learning MERN stack at [BroadwayInfosis](https://broadwayinfosys.com/) and self teaching myself with online documentation with [w3Schools](https://www.w3schools.com/), [MDN web docs](https://developer.mozilla.org/en-US/docs/Learn), [freeCodeCamp](https://www.freecodecamp.org/) etc like popular web documentation & online practicing platforms.
 
 <div align="center">
   <h2>Contact me</h2>
