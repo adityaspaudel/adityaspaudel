@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 [![My github stats](https://github-readme-stats.vercel.app/api?username=adityaspaudel)](https://github.com/adityaspaudel/github-readme-stats)
 -->
 
-# 👋 Hi there, I'm **Aaditya Paudel**
+# <Mark> 👋 Hi there, I'm Aaditya Paudel</mark>
 
 - 🎓 I'm a bachelor degree graduate in <ins>Bachelor of Computer Application (BCA)</ins>.
 - 🥰 I'm a passionate web developer specializing in modern <ins>JavaScript with Reactjs, Nextjs</ins> and <ins>Nodejs with Expressjs</ins> and <ins>Responsive Web Design</ins>.
 - 🔭 I’m currently focussed on my team project [augMern](https://github.com/kaylinkhanal/augMern), and other two personal projects [miniProjects](https://github.com/adityaspaudel/miniProjects), [socialmedia](https://github.com/adityaspaudel/miniProjects)
-- 🌱 I’m actively learning MERN stack at [BroadwayInfosis](https://broadwayinfosys.com/) and self teaching myself with online documentation with [w3Schools](https://www.w3schools.com/), [MDN web docs](https://developer.mozilla.org/en-US/docs/Learn), [freeCodeCamp](https://www.freecodecamp.org/)
+- 🌱 I’m actively learning MERN stack at [BroadwayInfosis](https://broadwayinfosys.com/) and self teaching myself with online documentation with [w3Schools](https://www.w3schools.com/), [MDN web docs](https://developer.mozilla.org/en-US/docs/Learn), [freeCodeCamp](https://www.freecodecamp.org/) etc like popular web documentation & online practicing platforms.
 
 <div align="center">
   <h2>Contact me</h2>
@@ -41,12 +41,12 @@ Here are some ideas to get you started:
 
 <!--shield style images-->
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.com/)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 
 <!--
 ## Backend Technologies
