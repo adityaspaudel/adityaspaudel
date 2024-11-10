@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 ![Yup](https://img.shields.io/badge/Yup-4A154B?style=for-the-badge&logo=yup&logoColor=white)
 
 
-## My Github Stastitics
+## My Github Statistics
 
 <!--To show github stastistics------------------------------------------>
 <!-- https://github.com/anuraghazra/github-readme-stats ----------------->
