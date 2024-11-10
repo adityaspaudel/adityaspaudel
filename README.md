@@ -15,15 +15,6 @@ Here are some ideas to get you started:
 
 
 
-<!--To show github stastistics------------------------------------------>
-<!-- https://github.com/anuraghazra/github-readme-stats ----------------->
-<!-- for statistics grading -------------------------------------------->
-<!--
-[![My github stats](https://github-readme-stats.vercel.app/api?username=adityaspaudel)](https://github.com/adityaspaudel/github-readme-stats)
--->
-
-<!-- for languages used statistics ----------------------------->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaspaudel&hide_progress=false)
 
 # <Mark> 👋 Hi there, I'm Aaditya Paudel</mark>
 
@@ -46,6 +37,16 @@ Here are some ideas to get you started:
 </div>
 
 # My Tech Stack
+
+<!--To show github stastistics------------------------------------------>
+<!-- https://github.com/anuraghazra/github-readme-stats ----------------->
+<!-- for statistics grading -------------------------------------------->
+<!--
+[![My github stats](https://github-readme-stats.vercel.app/api?username=adityaspaudel)](https://github.com/adityaspaudel/github-readme-stats)
+-->
+
+<!-- for languages used statistics ----------------------------->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaspaudel&hide_progress=false)
 
 ## Frontend Technologies
 
