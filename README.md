@@ -38,15 +38,7 @@ Here are some ideas to get you started:
 
 # My Tech Stack
 
-<!--To show github stastistics------------------------------------------>
-<!-- https://github.com/anuraghazra/github-readme-stats ----------------->
-<!-- for statistics grading -------------------------------------------->
-<!--
-[![My github stats](https://github-readme-stats.vercel.app/api?username=adityaspaudel)](https://github.com/adityaspaudel/github-readme-stats)
--->
 
-<!-- for languages used statistics ----------------------------->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaspaudel&hide_progress=false)
 
 ## Frontend Technologies
 
@@ -80,3 +72,16 @@ Here are some ideas to get you started:
 [![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)](https://www.chartjs.org/)
 ![Formik](https://img.shields.io/badge/Formik-2C8EBB?style=for-the-badge&logo=formik&logoColor=white)
 ![Yup](https://img.shields.io/badge/Yup-4A154B?style=for-the-badge&logo=yup&logoColor=white)
+
+
+## My Github Stastitics
+
+<!--To show github stastistics------------------------------------------>
+<!-- https://github.com/anuraghazra/github-readme-stats ----------------->
+<!-- for statistics grading -------------------------------------------->
+<!--
+[![My github stats](https://github-readme-stats.vercel.app/api?username=adityaspaudel)](https://github.com/adityaspaudel/github-readme-stats)
+-->
+
+<!-- for languages used statistics ----------------------------->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaspaudel&hide_progress=false&theme=dracula)
