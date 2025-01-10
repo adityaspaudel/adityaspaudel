@@ -47,6 +47,10 @@
 [![Formik](https://img.shields.io/badge/Formik-2C8EBB?style=for-the-badge&logo=formik&logoColor=white)](https://formik.org/)
 [![Yup](https://img.shields.io/badge/Yup-4A154B?style=for-the-badge&logo=yup&logoColor=white)](https://github.com/jquense/yup)
 [![React-Redux](https://img.shields.io/badge/React--Redux-764ABC?style=for-the-badge&logo=react-redux&logoColor=white)](https://react-redux.js.org/)
+[![nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)](https://nodemon.io/)
+[![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)](https://jwt.io/)
+[![dotenv](https://img.shields.io/badge/dotenv-333333?style=for-the-badge&logo=dotenv&logoColor=white)](https://github.com/motdotla/dotenv)
+[![Nodemailer](https://img.shields.io/badge/Nodemailer-0074E4?style=for-the-badge&logo=nodemailer&logoColor=white)](https://nodemailer.com/)
 
 ## My Github Statistics
 
