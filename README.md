@@ -3,7 +3,7 @@
 - 🎓 I'm a bachelor degree graduate in <ins>Bachelor of Computer Application (BCA)</ins>.
 - 🥰 I'm a passionate web developer specializing in modern <ins>JavaScript with Reactjs, Nextjs</ins> and <ins>Nodejs with Expressjs</ins> and <ins>Responsive Web Design</ins>.
 - 🔭 I’m currently focussed on my team project [Shikshyalaya](https://github.com/kaylinkhanal/sikshyalaya), and 3 other personal projects [socialmedia](https://github.com/adityaspaudel/miniProjects), [Ecommerce](https://github.com/adityaspaudel/ecommerce), [miniProjects](https://github.com/adityaspaudel/miniProjects),
-- 🌱 I’m actively learning MERN stack at [BroadwayInfosis](https://broadwayinfosys.com/) and self teaching myself with online documentation with [w3Schools](https://www.w3schools.com/), [MDN web docs](https://developer.mozilla.org/en-US/docs/Learn), [freeCodeCamp](https://www.freecodecamp.org/) etc like popular web documentation & online practicing platforms.
+- 🌱 I’m actively learning MERN stack at [BroadwayInfosys](https://broadwayinfosys.com/) and self teaching myself with online documentation with [w3Schools](https://www.w3schools.com/), [MDN web docs](https://developer.mozilla.org/en-US/docs/Learn), [freeCodeCamp](https://www.freecodecamp.org/) etc like popular web documentation & online practicing platforms.
 
 <div align="center">
   <h2>Contact me</h2>
@@ -23,6 +23,7 @@
 [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
+[![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 
 ## Backend Technologies & Databases
