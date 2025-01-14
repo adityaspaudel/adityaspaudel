@@ -23,7 +23,7 @@
 [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
-[![React-Redux](https://img.shields.io/badge/React--Redux-764ABC?style=for-the-badge&logo=react-redux&logoColor=white)](https://react-redux.js.org/)
+[![React-Redux](https://img.shields.io/badge/React--Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://react-redux.js.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 
 ## Backend Technologies & Databases
@@ -40,18 +40,17 @@
 [![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![NextUI](https://img.shields.io/badge/NextUI-v2-0070F3?style=for-the-badge&logo=next&logoColor=white)](https://nextui.org/)
+[![NextUI](https://img.shields.io/badge/Next-UI-0070F3?style=for-the-badge&logo=next.js&logoColor=white)](https://nextui.org)
 [![shadcn/ui](https://img.shields.io/badge/shadcn/ui-black?style=for-the-badge)](https://ui.shadcn.com/)
 [![React Icons](https://img.shields.io/badge/React_Icons-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react-icons.github.io/react-icons/)
-[![Lucide React](https://img.shields.io/badge/Lucide-React-5B47F5?style=for-the-badge)](https://lucide.dev/guide/packages/lucide-react)
+[![Lucide React](https://img.shields.io/badge/Lucide%20React-000000?style=for-the-badge&logo=lucide&logoColor=white)](https://github.com/lucide-icons/react)
 [![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)](https://www.chartjs.org/)
 [![Formik](https://img.shields.io/badge/Formik-2C8EBB?style=for-the-badge&logo=formik&logoColor=white)](https://formik.org/)
-[![Yup](https://img.shields.io/badge/Yup-4A154B?style=for-the-badge&logo=yup&logoColor=white)](https://github.com/jquense/yup)
+[![Yup Validation](https://img.shields.io/badge/-Yup%20-4CAF50?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/jquense/yup)
 [![nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)](https://nodemon.io/)
 [![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)](https://jwt.io/)
 [![dotenv](https://img.shields.io/badge/dotenv-333333?style=for-the-badge&logo=dotenv&logoColor=white)](https://github.com/motdotla/dotenv)
-[![Nodemailer](https://img.shields.io/badge/Nodemailer-0074E4?style=for-the-badge&logo=nodemailer&logoColor=white)](https://nodemailer.com/)
-
+[![Nodemailer](https://img.shields.io/badge/Nodemailer-3C3C3C?style=for-the-badge&logo=minutemailer&logoColor=white)](https://nodemailer.com)
 ## My Github Statistics
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaspaudel&hide_progress=false&theme=dracula)
