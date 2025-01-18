@@ -23,8 +23,8 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-CSS%20Framework-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![React](https://img.shields.io/badge/React-JavaScript%20Library-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
+[![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-Simplified%20State%20Management-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://redux-toolkit.js.org/)
 [![React-Redux](https://img.shields.io/badge/React--Redux-State%20Management-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://react-redux.js.org/)
-[![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-State%20Management-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://redux-toolkit.js.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-React%20Framework-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 
 
