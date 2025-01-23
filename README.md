@@ -26,6 +26,9 @@
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://redux-toolkit.js.org/)
 [![React-Redux](https://img.shields.io/badge/React--Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://react-redux.js.org/)
+[![Formik](https://img.shields.io/badge/Formik-2C8EBB?style=for-the-badge&logo=formik&logoColor=white)](https://formik.org/)
+[![Yup](https://img.shields.io/badge/Yup-4CAF50?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/jquense/yup)
+
 
 ## Backend Technologies & Databases
 
@@ -40,8 +43,6 @@
 [![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Formik](https://img.shields.io/badge/Formik-2C8EBB?style=for-the-badge&logo=formik&logoColor=white)](https://formik.org/)
-[![Yup](https://img.shields.io/badge/Yup-4CAF50?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/jquense/yup)
 [![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge)](https://ui.shadcn.com/)
 [![React Icons](https://img.shields.io/badge/React%20Icons-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react-icons.github.io/react-icons/)
 [![Lucide React](https://img.shields.io/badge/Lucide%20React-F7A600?style=for-the-badge&logo=lucide&logoColor=white)](https://lucide.dev/)
