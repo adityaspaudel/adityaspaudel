@@ -16,7 +16,7 @@
 
 # My Tech Stack
 
-## Frontend Technologies
+## Frontend Technologies 
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.com/)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -24,11 +24,15 @@
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://redux-toolkit.js.org/)
 [![React-Redux](https://img.shields.io/badge/React--Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://react-redux.js.org/)
+[![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://redux-toolkit.js.org/)
+[![Redux Persist](https://img.shields.io/badge/Redux_Persist-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://github.com/rt2zz/redux-persist)
+[![Redux Logger](https://img.shields.io/badge/Redux_Logger-999999?style=for-the-badge&logo=redux&logoColor=white)](https://github.com/LogRocket/redux-logger)
 [![Formik](https://img.shields.io/badge/Formik-2C8EBB?style=for-the-badge&logo=formik&logoColor=white)](https://formik.org/)
 [![Yup](https://img.shields.io/badge/Yup-4CAF50?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/jquense/yup)
-
+[![Socket.IO Client](https://img.shields.io/badge/Socket.IO_Client-000000?style=for-the-badge&logo=socket.io&logoColor=white)](https://socket.io/docs/v4/client-api/)
+[![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)](https://axios-http.com/)
+[![Fetch API](https://img.shields.io/badge/Fetch_API-0096FF?style=for-the-badge&logo=web&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 
 ## Backend Technologies & Databases
 
@@ -36,6 +40,10 @@
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)](https://mongoosejs.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Multer](https://img.shields.io/badge/Multer-FF9900?style=for-the-badge&logo=express&logoColor=white)](https://github.com/expressjs/multer)
+[![Socket.IO](https://img.shields.io/badge/Socket.IO-000000?style=for-the-badge&logo=socket.io&logoColor=white)](https://socket.io/docs/v4/server-api/)
+
+
 
 ## Other Libraries and Tools
 
@@ -52,6 +60,7 @@
 [![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)](https://jwt.io/)
 [![dotenv](https://img.shields.io/badge/dotenv-00AF91?style=for-the-badge&logo=dotenv&logoColor=white)](https://github.com/motdotla/dotenv)
 [![Nodemailer](https://img.shields.io/badge/Nodemailer-3C3C3C?style=for-the-badge&logo=minutemailer&logoColor=white)](https://nodemailer.com)
+
 
 ## My Github Statistics
 
