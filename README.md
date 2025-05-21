@@ -62,6 +62,7 @@
 [![Tailwind Merge](https://img.shields.io/badge/Tailwind_Merge-38B2AC?style=for-the-badge)](https://github.com/dcastil/tailwind-merge)
 [![Tailwind CSS Animate](https://img.shields.io/badge/Tailwind_Animate-06B6D4?style=for-the-badge)](https://github.com/benface/tailwindcss-animate)
 [![React PDF Renderer](https://img.shields.io/badge/React_PDF-FF5252?style=for-the-badge)](https://react-pdf.org/)
+
 [![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)](https://nodemon.io/)
 [![bcrypt](https://img.shields.io/badge/bcrypt-4E9CAF?style=for-the-badge&logo=lock&logoColor=white)](https://github.com/kelektiv/node.bcrypt.js)
 [![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)](https://jwt.io/)
