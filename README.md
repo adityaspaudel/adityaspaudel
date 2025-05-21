@@ -49,29 +49,19 @@
 [![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-
-<!-- ### Form Validation -->
 [![Formik](https://img.shields.io/badge/Formik-2C8EBB?style=for-the-badge&logo=formik&logoColor=white)](https://formik.org/)
 [![Yup](https://img.shields.io/badge/Yup-4CAF50?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/jquense/yup)
-
-<!-- ### UI Libraries -->
 [![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge)](https://ui.shadcn.com/)
 [![React Icons](https://img.shields.io/badge/React%20Icons-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react-icons.github.io/react-icons/)
 [![Lucide React](https://img.shields.io/badge/Lucide%20React-F7A600?style=for-the-badge&logo=lucide&logoColor=white)](https://lucide.dev/)
-
-<!-- ### Data Visualation -->
 [![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)](https://www.chartjs.org/)
 [![Recharts](https://img.shields.io/badge/Recharts-FF4A00?style=for-the-badge)](https://recharts.org/)
 [![React Day Picker](https://img.shields.io/badge/React_Day_Picker-90CDF4?style=for-the-badge)](https://react-day-picker.js.org/)
-
-<!-- ### Utilities -->
 [![date-fns](https://img.shields.io/badge/date--fns-ff9800?style=for-the-badge)](https://date-fns.org/)
 [![Moment.js](https://img.shields.io/badge/Moment.js-4A4A4A?style=for-the-badge)](https://momentjs.com/)
 [![Tailwind Merge](https://img.shields.io/badge/Tailwind_Merge-38B2AC?style=for-the-badge)](https://github.com/dcastil/tailwind-merge)
 [![Tailwind CSS Animate](https://img.shields.io/badge/Tailwind_Animate-06B6D4?style=for-the-badge)](https://github.com/benface/tailwindcss-animate)
 [![React PDF Renderer](https://img.shields.io/badge/React_PDF-FF5252?style=for-the-badge)](https://react-pdf.org/)
-
-<!-- ### Extra -->
 [![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)](https://nodemon.io/)
 [![bcrypt](https://img.shields.io/badge/bcrypt-4E9CAF?style=for-the-badge&logo=lock&logoColor=white)](https://github.com/kelektiv/node.bcrypt.js)
 [![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)](https://jwt.io/)
