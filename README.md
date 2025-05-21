@@ -28,10 +28,7 @@
 [![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://redux-toolkit.js.org/)
 [![Redux Persist](https://img.shields.io/badge/Redux_Persist-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://github.com/rt2zz/redux-persist)
 [![Redux Logger](https://img.shields.io/badge/Redux_Logger-999999?style=for-the-badge&logo=redux&logoColor=white)](https://github.com/LogRocket/redux-logger)
-[![Formik](https://img.shields.io/badge/Formik-2C8EBB?style=for-the-badge&logo=formik&logoColor=white)](https://formik.org/)
-[![Yup](https://img.shields.io/badge/Yup-4CAF50?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/jquense/yup)
 [![Socket.IO Client](https://img.shields.io/badge/Socket.IO_Client-000000?style=for-the-badge&logo=socket.io&logoColor=white)](https://socket.io/docs/v4/client-api/)
-### API 
 [![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)](https://axios-http.com/)
 [![Fetch API](https://img.shields.io/badge/Fetch_API-0096FF?style=for-the-badge&logo=web&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 
@@ -52,7 +49,9 @@
 [![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-
+    ### Form Validation
+    [![Formik](https://img.shields.io/badge/Formik-2C8EBB?style=for-the-badge&logo=formik&logoColor=white)](https://formik.org/)
+    [![Yup](https://img.shields.io/badge/Yup-4CAF50?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/jquense/yup)
 ### UI Libraries 
 [![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge)](https://ui.shadcn.com/)
 [![React Icons](https://img.shields.io/badge/React%20Icons-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react-icons.github.io/react-icons/)
