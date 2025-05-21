@@ -49,9 +49,11 @@
 [![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-    ### Form Validation
-    [![Formik](https://img.shields.io/badge/Formik-2C8EBB?style=for-the-badge&logo=formik&logoColor=white)](https://formik.org/)
-    [![Yup](https://img.shields.io/badge/Yup-4CAF50?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/jquense/yup)
+
+### Form Validation
+[![Formik](https://img.shields.io/badge/Formik-2C8EBB?style=for-the-badge&logo=formik&logoColor=white)](https://formik.org/)
+[![Yup](https://img.shields.io/badge/Yup-4CAF50?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/jquense/yup)
+
 ### UI Libraries 
 [![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge)](https://ui.shadcn.com/)
 [![React Icons](https://img.shields.io/badge/React%20Icons-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react-icons.github.io/react-icons/)
