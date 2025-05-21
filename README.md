@@ -57,14 +57,14 @@
 [![Radix UI](https://img.shields.io/badge/Radix_UI-000000?style=for-the-badge&logo=radix-ui&logoColor=white)](https://www.radix-ui.com/)
 [![React Toastify](https://img.shields.io/badge/React_Toastify-ff8800?style=for-the-badge&logo=react&logoColor=white)](https://fkhadra.github.io/react-toastify/)
 [![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)](https://www.chartjs.org/)
-[![Tiptap](https://img.shields.io/badge/Tiptap-6C63FF?style=for-the-badge)](https://tiptap.dev/)
+<!--[![Tiptap](https://img.shields.io/badge/Tiptap-6C63FF?style=for-the-badge)](https://tiptap.dev/)
 [![Recharts](https://img.shields.io/badge/Recharts-FF4A00?style=for-the-badge)](https://recharts.org/)
 [![React Day Picker](https://img.shields.io/badge/React_Day_Picker-90CDF4?style=for-the-badge)](https://react-day-picker.js.org/)
 [![React DOM](https://img.shields.io/badge/React_DOM-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
 [![date-fns](https://img.shields.io/badge/date--fns-ff9800?style=for-the-badge)](https://date-fns.org/)
 [![Moment.js](https://img.shields.io/badge/Moment.js-4A4A4A?style=for-the-badge)](https://momentjs.com/)
 [![Tailwind Merge](https://img.shields.io/badge/Tailwind_Merge-38B2AC?style=for-the-badge)](https://github.com/dcastil/tailwind-merge)
-[![Tailwind CSS Animate](https://img.shields.io/badge/Tailwind_Animate-06B6D4?style=for-the-badge)](https://github.com/benface/tailwindcss-animate)
+[![Tailwind CSS Animate](https://img.shields.io/badge/Tailwind_Animate-06B6D4?style=for-the-badge)](https://github.com/benface/tailwindcss-animate)-->
 [![React PDF Renderer](https://img.shields.io/badge/React_PDF-FF5252?style=for-the-badge)](https://react-pdf.org/)
 [![Framer Motion](https://img.shields.io/badge/Framer_Motion-EF008F?style=for-the-badge&logo=framer&logoColor=white)](https://www.framer.com/motion/)
 
