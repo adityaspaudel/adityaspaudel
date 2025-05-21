@@ -54,6 +54,7 @@
 [![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge)](https://ui.shadcn.com/)
 [![React Icons](https://img.shields.io/badge/React%20Icons-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react-icons.github.io/react-icons/)
 [![Lucide React](https://img.shields.io/badge/Lucide%20React-F7A600?style=for-the-badge&logo=lucide&logoColor=white)](https://lucide.dev/)
+[![Radix UI](https://img.shields.io/badge/Radix_UI-000000?style=for-the-badge&logo=radix-ui&logoColor=white)](https://www.radix-ui.com/)
 [![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)](https://www.chartjs.org/)
 [![Recharts](https://img.shields.io/badge/Recharts-FF4A00?style=for-the-badge)](https://recharts.org/)
 [![React Day Picker](https://img.shields.io/badge/React_Day_Picker-90CDF4?style=for-the-badge)](https://react-day-picker.js.org/)
@@ -62,6 +63,10 @@
 [![Tailwind Merge](https://img.shields.io/badge/Tailwind_Merge-38B2AC?style=for-the-badge)](https://github.com/dcastil/tailwind-merge)
 [![Tailwind CSS Animate](https://img.shields.io/badge/Tailwind_Animate-06B6D4?style=for-the-badge)](https://github.com/benface/tailwindcss-animate)
 [![React PDF Renderer](https://img.shields.io/badge/React_PDF-FF5252?style=for-the-badge)](https://react-pdf.org/)
+[![Framer Motion](https://img.shields.io/badge/Framer_Motion-EF008F?style=for-the-badge&logo=framer&logoColor=white)](https://www.framer.com/motion/)
+
+<!--[![React Select](https://img.shields.io/badge/React_Select-2684FF?style=for-the-badge&logo=react&logoColor=white)](https://react-select.com/)
+[![React Day Picker](https://img.shields.io/badge/React_Day_Picker-90CDF4?style=for-the-badge)](https://react-day-picker.js.org/)-->
 
 [![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)](https://nodemon.io/)
 [![bcrypt](https://img.shields.io/badge/bcrypt-4E9CAF?style=for-the-badge&logo=lock&logoColor=white)](https://github.com/kelektiv/node.bcrypt.js)
