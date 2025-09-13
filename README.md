@@ -1,7 +1,7 @@
 # <Mark> 👋 Hi there, I'm Aaditya Paudel</mark>
 
 - 🎓 I'm a bachelor degree graduate in <ins>Bachelor of Computer Application (BCA)</ins>.
-- 🥰 I'm a passionate web developer specializing in modern <ins>JavaScript with Reactjs, Nextjs</ins> and <ins>Nodejs with Expressjs</ins> and <ins>Responsive Web Design</ins>.
+- 🥰 I'm a passionate web developer specializing in modern <ins>JavaScript with Reactjs, Nextjs</ins> and <ins>Nodejs with Expressjs</ins>.
 - 🔭 I’m currently focused on my team project [Shikshyalaya](https://github.com/kaylinkhanal/sikshyalaya), and 2 other personal projects [socialmedia](https://github.com/adityaspaudel/miniProjects), [miniProjects](https://github.com/adityaspaudel/miniProjects).
 - 🌱 I’m actively learning MERN stack at [BroadwayInfosys](https://broadwayinfosys.com/) and self-teaching with online resources like [w3Schools](https://www.w3schools.com/), [MDN web docs](https://developer.mozilla.org/en-US/docs/Learn), and [freeCodeCamp](https://www.freecodecamp.org/).
 
