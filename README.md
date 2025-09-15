@@ -58,6 +58,8 @@
 [![React Toastify](https://img.shields.io/badge/React_Toastify-ff8800?style=for-the-badge&logo=react&logoColor=white)](https://fkhadra.github.io/react-toastify/)
 [![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)](https://www.chartjs.org/)
 [![React PDF Renderer](https://img.shields.io/badge/React_PDF-FF5252?style=for-the-badge)](https://react-pdf.org/)
+[![qrcode.react](https://img.shields.io/badge/qrcode.react-2E7D32?style=for-the-badge)](https://github.com/zpao/qrcode.react)
+[![react-color](https://img.shields.io/badge/react--color-1976D2?style=for-the-badge)](https://github.com/casesandberg/react-color)
 [![Framer Motion](https://img.shields.io/badge/Framer_Motion-EF008F?style=for-the-badge&logo=framer&logoColor=white)](https://www.framer.com/motion/)
 <!--
 [![Tiptap](https://img.shields.io/badge/Tiptap-6C63FF?style=for-the-badge)](https://tiptap.dev/)
