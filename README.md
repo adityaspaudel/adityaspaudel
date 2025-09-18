@@ -1,4 +1,4 @@
-# <Mark> 👋 Hi there, I'm Aaditya Paudel</mark>
+# <Mark> 👋 Hi there, I'm Aaditya Paudel </mark>
 
 - 🎓 I'm a bachelor degree graduate in <ins>Bachelor of Computer Application (BCA)</ins>.
 - 🥰 I'm a passionate web developer specializing in modern <ins>JavaScript with Reactjs, Nextjs</ins> and <ins>Nodejs with Expressjs</ins>.
