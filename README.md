@@ -81,6 +81,6 @@
 [![dotenv](https://img.shields.io/badge/dotenv-00AF91?style=for-the-badge&logo=dotenv&logoColor=white)](https://github.com/motdotla/dotenv)
 [![Nodemailer](https://img.shields.io/badge/Nodemailer-3C3C3C?style=for-the-badge&logo=minutemailer&logoColor=white)](https://nodemailer.com)
 
-## My Github Statistics
+<!--## My Github Statistics
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaspaudel&hide_progress=false&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaspaudel&hide_progress=false&theme=dracula)-->
