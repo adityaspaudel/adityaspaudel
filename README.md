@@ -1,10 +1,11 @@
-# <Mark> 👋 Hi there, I'm Aaditya Paudel </mark>
+# 👋 Hi there, I'm Aaditya Paudel  
+🚀 Full-Stack MERN Developer | Lifelong Learner  
 
-- 🎓 I'm a bachelor degree graduate in <ins>Bachelor of Computer Application (BCA)</ins>.
-- 🥰 I'm a passionate web developer specializing in modern <ins>JavaScript with Reactjs, Nextjs</ins> and <ins>Nodejs with Expressjs</ins>.
-- 🔭 I successfully completed our learning-based team project [Shikshyalaya](https://github.com/kaylinkhanal/sikshyalaya) and continue enhancing my skills through personal projects like [MiniProjects](https://github.com/adityaspaudel/miniProjects) and [SocialMedia](https://github.com/adityaspaudel/socialmedia).
-- 🌱 I have completed **MERN Stack Development** course from [Broadway Infosys](https://broadwayinfosys.com/) and I am actively enhancing my skills through online resources like [W3Schools](https://www.w3schools.com/), [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn), [FreeCodeCamp](https://www.freecodecamp.org/), [GeeksforGeeks](https://www.geeksforgeeks.org/), [React.dev](https://react.dev/), and [Redux](https://redux.js.org/).
-
+- 🎓 A **Bachelor of Computer Application (BCA) Graduate** with a strong passion for **web development**.  
+- 💻 Skilled in **JavaScript**, **React.js**, **Next.js**, **Node.js**, and **Express.js**.  
+- 🔭 Built [Shikshyalaya](https://github.com/kaylinkhanal/sikshyalaya) with my team during the **MERN Stack Development** course at [Broadway Infosys](https://broadwayinfosys.com/). Currently working on [MiniProjects](https://github.com/adityaspaudel/miniProjects) and [SocialMedia](https://github.com/adityaspaudel/socialmedia).  
+- 🌱 Constantly learning and improving through [W3Schools](https://www.w3schools.com/), [MDN](https://developer.mozilla.org/en-US/docs/Learn), [freeCodeCamp](https://www.freecodecamp.org/), [GeeksforGeeks](https://www.geeksforgeeks.org/), [React.dev](https://react.dev/), and [Redux](https://redux.js.org/).
+  
 
 <div align="center">
   <h2>Contact me</h2>
