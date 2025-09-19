@@ -2,7 +2,7 @@
 
 - 🎓 I'm a bachelor degree graduate in <ins>Bachelor of Computer Application (BCA)</ins>.
 - 🥰 I'm a passionate web developer specializing in modern <ins>JavaScript with Reactjs, Nextjs</ins> and <ins>Nodejs with Expressjs</ins>.
-- 🔭 I’m currently focused on my team project [Shikshyalaya](https://github.com/kaylinkhanal/sikshyalaya), and 2 other personal projects [miniProjects](https://github.com/adityaspaudel/miniProjects), [socialmedia](https://github.com/adityaspaudel/miniProjects).
+- 🔭 I successfully completed our learning-based team project [Shikshyalaya](https://github.com/kaylinkhanal/sikshyalaya) and continue enhancing my skills through personal projects like [MiniProjects](https://github.com/adityaspaudel/miniProjects) and [SocialMedia](https://github.com/adityaspaudel/socialmedia).
 - 🌱 I have completed **MERN Stack Development** course from [Broadway Infosys](https://broadwayinfosys.com/) and I am actively enhancing my skills through online resources like [W3Schools](https://www.w3schools.com/), [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn), [FreeCodeCamp](https://www.freecodecamp.org/), [GeeksforGeeks](https://www.geeksforgeeks.org/), [React.dev](https://react.dev/), and [Redux](https://redux.js.org/).
 
 
