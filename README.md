@@ -1,6 +1,8 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaspaudel&label=Profile%20views&color=0e75b6&style=flat" alt="adityaspaudel" /> </p>
+
+
 # 👋 Hi there, I'm Aaditya Paudel  
 🚀 Full-Stack MERN Developer | Lifelong Learner  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaspaudel&label=Profile%20views&color=0e75b6&style=flat" alt="adityaspaudel" /> </p>
 
 - 🎓 A **Bachelor of Computer Application (BCA) Graduate** with a strong passion for **web development**.  
 - 💻 Skilled in **JavaScript**, **React.js**, **Next.js**, **Node.js**, and **Express.js**.  
