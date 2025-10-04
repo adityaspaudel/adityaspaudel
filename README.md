@@ -85,4 +85,21 @@
 
 <!--## My Github Statistics
 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaspaudel&hide_progress=false&theme=dracula)-->
+# 📊 GitHub Stats:
+
+
+![](https://github-readme-stats.vercel.app/api?username=adityaspaudel&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaspaudel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://nirzak-streak-stats.vercel.app/?user=adityaspaudel&theme=dark&hide_border=false)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=adityaspaudel&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=adityaspaudel&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
