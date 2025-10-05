@@ -8,13 +8,29 @@
   
 
 <div align="center">
-  <h2>Contact me</h2>
-  
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityaspaudel@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityaspaudel/)
-  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Adityaspaudel)
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/adityas.paudel)
+  <h2>☎️ Contact Me</h2>
+
+  <!-- Official Logos -->
+  <a href="mailto:adityaspaudel@gmail.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/gmail/D14836" alt="Gmail" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/adityaspaudel/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/Adityaspaudel" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/adityas.paudel" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="40" height="40"/>
+  </a>
+
+  <br/><br/>
+
 </div>
+
 
 # My Tech Stack
 
