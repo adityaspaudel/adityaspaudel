@@ -3,7 +3,7 @@
 
 - 🎓 A **Bachelor of Computer Application (BCA) Graduate** with a strong passion for **web development**.  
 - 💻 Skilled in **JavaScript**, **React.js**, **Next.js**, **Node.js**, **Express.js** and **MongoDB**.  
-- 🔭 Built [Shikshyalaya](https://github.com/kaylinkhanal/sikshyalaya) with my team as part of **MERN Stack Development** course at [Broadway Infosys](https://broadwayinfosys.com/). Currently working on [MiniProjects](https://github.com/adityaspaudel/miniProjects), [SocialMedia](https://github.com/adityaspaudel/socialmedia), [eKharid](https://github.com/adityaspaudel/eKharid), [niwaas](https://github.com/adityaspaudel/niwaas).  
+- 🔭 Built [Shikshyalaya](https://github.com/kaylinkhanal/sikshyalaya) with my team as part of **MERN Stack Development** course at [Broadway Infosys](https://broadwayinfosys.com/). Currently working on [MiniProjects](https://github.com/adityaspaudel/miniProjects), [MeroSanjal](https://github.com/adityaspaudel/socialmedia), [eKharid](https://github.com/adityaspaudel/eKharid), [niwaas](https://github.com/adityaspaudel/niwaas).  
 - 🌱 Constantly learning and improving skills through trusted online resources like [W3Schools](https://www.w3schools.com/), [MDN](https://developer.mozilla.org/en-US/docs/Learn), [freeCodeCamp](https://www.freecodecamp.org/), [GeeksforGeeks](https://www.geeksforgeeks.org/), [React.dev](https://react.dev/), and [Redux](https://redux.js.org/).
   
 
