@@ -98,7 +98,8 @@
 [![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)](https://jwt.io/)
 [![dotenv](https://img.shields.io/badge/dotenv-00AF91?style=for-the-badge&logo=dotenv&logoColor=white)](https://github.com/motdotla/dotenv)
 [![Nodemailer](https://img.shields.io/badge/Nodemailer-3C3C3C?style=for-the-badge&logo=minutemailer&logoColor=white)](https://nodemailer.com)
-
+[![Swagger UI Express](https://img.shields.io/badge/Swagger_UI_Express-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](https://www.npmjs.com/package/swagger-ui-express)
+[![Swagger Autogen](https://img.shields.io/badge/Swagger_Autogen-4B32C3?style=for-the-badge&logo=swagger&logoColor=white)](https://www.npmjs.com/package/swagger-autogen)
 
 # Github Profile Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityaspaudel" alt="adityaspaudel" /></a> </p>
