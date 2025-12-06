@@ -102,6 +102,13 @@
 [![Nodemailer](https://img.shields.io/badge/Nodemailer-3C3C3C?style=for-the-badge&logo=minutemailer&logoColor=white)](https://nodemailer.com)
 [![Swagger UI Express](https://img.shields.io/badge/Swagger_UI_Express-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](https://www.npmjs.com/package/swagger-ui-express)
 [![Swagger Autogen](https://img.shields.io/badge/Swagger_Autogen-4B32C3?style=for-the-badge&logo=swagger&logoColor=white)](https://www.npmjs.com/package/swagger-autogen)
+[![Helmet](https://img.shields.io/badge/Helmet-000000?style=for-the-badge&logo=express&logoColor=white)](https://www.npmjs.com/package/helmet)
+[![Morgan](https://img.shields.io/badge/Morgan-29B6F6?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/morgan)
+[![Express Rate Limit](https://img.shields.io/badge/Express_Rate_Limit-F57C00?style=for-the-badge&logo=express&logoColor=white)](https://www.npmjs.com/package/express-rate-limit)
+[![Compression](https://img.shields.io/badge/Compression-00C853?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/compression)
+<!--
+[![Express Validator](https://img.shields.io/badge/Express_Validator-00ACC1?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/express-validator)
+-->
 
 # Github Profile Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityaspaudel" alt="adityaspaudel" /></a> </p>
