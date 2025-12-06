@@ -44,11 +44,13 @@
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![React-Redux](https://img.shields.io/badge/React--Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://react-redux.js.org/)
 [![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://redux-toolkit.js.org/)
+<!--
 [![Redux Persist](https://img.shields.io/badge/Redux_Persist-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://github.com/rt2zz/redux-persist)
 [![Redux Logger](https://img.shields.io/badge/Redux_Logger-999999?style=for-the-badge&logo=redux&logoColor=white)](https://github.com/LogRocket/redux-logger)
+-->
 [![Socket.IO Client](https://img.shields.io/badge/Socket.IO_Client-000000?style=for-the-badge&logo=socket.io&logoColor=white)](https://socket.io/docs/v4/client-api/)
-[![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)](https://axios-http.com/)
 [![Fetch API](https://img.shields.io/badge/Fetch_API-0096FF?style=for-the-badge&logo=web&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+[![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)](https://axios-http.com/)
 
 ## Backend Technologies & Databases
 
