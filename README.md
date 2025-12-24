@@ -116,15 +116,13 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adityaspaudel&theme=dark&hide_border=false" />
-  <img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=adityaspaudel&theme=dark&hide_border=false" />
-</p>
+| Stats | Streak |
+|------|--------|
+| ![](https://github-readme-stats.vercel.app/api?username=adityaspaudel&theme=dark&hide_border=false) | ![](https://nirzak-streak-stats.vercel.app/?user=adityaspaudel&theme=dark&hide_border=false) |
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaspaudel&theme=dark&layout=compact" />
-  <img width="48%" src="https://github-contributor-stats.vercel.app/api?username=adityaspaudel&limit=5&theme=dark" />
-</p>
+| Top Languages | Contributions |
+|--------------|---------------|
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaspaudel&theme=dark&layout=compact&hide_border=false) | ![](https://github-contributor-stats.vercel.app/api?username=adityaspaudel&limit=5&theme=dark&combine_all_yearly_contributions=true) |
 
 
 ---
