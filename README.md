@@ -119,19 +119,22 @@
 ## 📊 GitHub Stats
 
 ### Contributions
-![Contribution Stats](https://github-contributor-stats.vercel.app/api?username=adityaspaudel&limit=5&theme=dark&combine_all_yearly_contributions=true)  
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=adityaspaudel&theme=dark&hide_border=false)
 
-### Repositories & Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaspaudel&theme=dark&hide_border=false&layout=compact)  
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=adityaspaudel&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-contributor-stats.vercel.app/api?username=adityaspaudel&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+    </td>
+    <td align="center" style="padding-left: 20px;">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=adityaspaudel&theme=dark&hide_border=false" />
+    </td>
+  </tr>
+</table>
 
----
 
-### 👀 Profile Views
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=adityaspaudel&label=Profile%20views&color=0e75b6&style=flat" alt="adityaspaudel" />
-</p>
+
+
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
