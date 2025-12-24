@@ -112,8 +112,7 @@
 -->
 
 # Github Profile Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityaspaudel" alt="adityaspaudel" /></a> </p>
-
+[![](https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=adityaspaudel)](https://github.com/ryo-ma/github-profile-trophy)
 
 # 📊 GitHub Stats:
 
