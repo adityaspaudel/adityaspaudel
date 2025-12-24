@@ -114,9 +114,18 @@
 # Github Profile Trophies
 [![](https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=adityaspaudel)](https://github.com/ryo-ma/github-profile-trophy)
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats
 
-![](https://github-contributor-stats.vercel.app/api?username=adityaspaudel&limit=5&theme=dark&combine_all_yearly_contributions=true) ![](https://nirzak-streak-stats.vercel.app/?user=adityaspaudel&theme=dark&hide_border=false) ![](https://github-readme-stats.vercel.app/api?username=adityaspaudel&theme=dark&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaspaudel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adityaspaudel&theme=dark&hide_border=false" />
+  <img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=adityaspaudel&theme=dark&hide_border=false" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaspaudel&theme=dark&layout=compact" />
+  <img width="48%" src="https://github-contributor-stats.vercel.app/api?username=adityaspaudel&limit=5&theme=dark" />
+</p>
+
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaspaudel&label=Profile%20views&color=0e75b6&style=flat" alt="adityaspaudel" /> </p>
