@@ -116,11 +116,7 @@
 
 # 📊 GitHub Stats:
 
-![](https://nirzak-streak-stats.vercel.app/?user=adityaspaudel&theme=dark&hide_border=false) ![](https://github-readme-stats.vercel.app/api?username=adityaspaudel&theme=dark&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaspaudel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=adityaspaudel&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=adityaspaudel&limit=5&theme=dark&combine_all_yearly_contributions=true) ![](https://nirzak-streak-stats.vercel.app/?user=adityaspaudel&theme=dark&hide_border=false) ![](https://github-readme-stats.vercel.app/api?username=adityaspaudel&theme=dark&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaspaudel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaspaudel&label=Profile%20views&color=0e75b6&style=flat" alt="adityaspaudel" /> </p>
