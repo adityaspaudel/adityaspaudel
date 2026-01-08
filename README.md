@@ -31,7 +31,7 @@
 
 </div>
 
-<div align="center">
+<div>
   
 # 🛠️ My Tech Stack 
 
@@ -56,7 +56,7 @@
 </div>
 
 
-<div align="center">
+<div>
 
 ## 🖥️ Backend Technologies & Databases
 
@@ -65,6 +65,54 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Multer](https://img.shields.io/badge/Multer-FF9900?style=for-the-badge&logo=express&logoColor=white)](https://github.com/expressjs/multer)
 [![Socket.IO](https://img.shields.io/badge/Socket.IO-000000?style=for-the-badge&logo=socket.io&logoColor=white)](https://socket.io/docs/v4/server-api/)
+
+</div>
+
+<div>
+
+## 📚 Other Libraries
+
+[![Formik](https://img.shields.io/badge/Formik-2C8EBB?style=for-the-badge&logo=formik&logoColor=white)](https://formik.org/)
+[![Yup](https://img.shields.io/badge/Yup-4CAF50?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/jquense/yup)
+[![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)](https://www.chartjs.org/)
+[![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge)](https://ui.shadcn.com/)
+[![React Icons](https://img.shields.io/badge/React%20Icons-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react-icons.github.io/react-icons/)
+[![Lucide React](https://img.shields.io/badge/Lucide%20React-F7A600?style=for-the-badge&logo=lucide&logoColor=white)](https://lucide.dev/)
+[![React Toastify](https://img.shields.io/badge/React_Toastify-ff8800?style=for-the-badge&logo=react&logoColor=white)](https://fkhadra.github.io/react-toastify/)
+[![React PDF Renderer](https://img.shields.io/badge/React_PDF-FF5252?style=for-the-badge)](https://react-pdf.org/)
+[![qrcode.react](https://img.shields.io/badge/qrcode.react-2E7D32?style=for-the-badge)](https://github.com/zpao/qrcode.react)
+[![react-color](https://img.shields.io/badge/react--color-1976D2?style=for-the-badge)](https://github.com/casesandberg/react-color)
+<!-- [![Framer Motion](https://img.shields.io/badge/Framer_Motion-EF008F?style=for-the-badge&logo=framer&logoColor=white)](https://www.framer.com/motion/) 
+[![Tiptap](https://img.shields.io/badge/Tiptap-6C63FF?style=for-the-badge)](https://tiptap.dev/)
+[![Recharts](https://img.shields.io/badge/Recharts-FF4A00?style=for-the-badge)](https://recharts.org/)
+[![React Day Picker](https://img.shields.io/badge/React_Day_Picker-90CDF4?style=for-the-badge)](https://react-day-picker.js.org/)
+[![React DOM](https://img.shields.io/badge/React_DOM-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![date-fns](https://img.shields.io/badge/date--fns-ff9800?style=for-the-badge)](https://date-fns.org/)
+[![Moment.js](https://img.shields.io/badge/Moment.js-4A4A4A?style=for-the-badge)](https://momentjs.com/)
+[![Tailwind Merge](https://img.shields.io/badge/Tailwind_Merge-38B2AC?style=for-the-badge)](https://github.com/dcastil/tailwind-merge)
+[![Tailwind CSS Animate](https://img.shields.io/badge/Tailwind_Animate-06B6D4?style=for-the-badge)](https://github.com/benface/tailwindcss-animate)
+[![React Select](https://img.shields.io/badge/React_Select-2684FF?style=for-the-badge&logo=react&logoColor=white)](https://react-select.com/)
+[![React Day Picker](https://img.shields.io/badge/React_Day_Picker-90CDF4?style=for-the-badge)](https://react-day-picker.js.org/)
+-->
+
+</div>
+
+<div>
+
+[![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)](https://nodemon.io/)
+[![bcrypt](https://img.shields.io/badge/bcrypt-4E9CAF?style=for-the-badge&logo=lock&logoColor=white)](https://github.com/kelektiv/node.bcrypt.js)
+[![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)](https://jwt.io/)
+[![dotenv](https://img.shields.io/badge/dotenv-00AF91?style=for-the-badge&logo=dotenv&logoColor=white)](https://github.com/motdotla/dotenv)
+[![Nodemailer](https://img.shields.io/badge/Nodemailer-3C3C3C?style=for-the-badge&logo=minutemailer&logoColor=white)](https://nodemailer.com)
+[![Swagger UI Express](https://img.shields.io/badge/Swagger_UI_Express-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](https://www.npmjs.com/package/swagger-ui-express)
+[![Helmet](https://img.shields.io/badge/Helmet-000000?style=for-the-badge&logo=express&logoColor=white)](https://www.npmjs.com/package/helmet)
+[![Morgan](https://img.shields.io/badge/Morgan-29B6F6?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/morgan)
+[![Express Rate Limit](https://img.shields.io/badge/Express_Rate_Limit-F57C00?style=for-the-badge&logo=express&logoColor=white)](https://www.npmjs.com/package/express-rate-limit)
+[![Compression](https://img.shields.io/badge/Compression-00C853?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/compression)
+
+<!--
+[![Express Validator](https://img.shields.io/badge/Express_Validator-00ACC1?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/express-validator)
+-->
 
 </div>
 
@@ -94,53 +142,6 @@
 <a href="https://developer.chrome.com/docs/devtools/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" width="50" />
 </a>
-</div>
-<div align="center">
-
-## 📚 Other Libraries
-
-[![Formik](https://img.shields.io/badge/Formik-2C8EBB?style=for-the-badge&logo=formik&logoColor=white)](https://formik.org/)
-[![Yup](https://img.shields.io/badge/Yup-4CAF50?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/jquense/yup)
-[![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)](https://www.chartjs.org/)
-[![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge)](https://ui.shadcn.com/)
-[![React Icons](https://img.shields.io/badge/React%20Icons-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react-icons.github.io/react-icons/)
-[![Lucide React](https://img.shields.io/badge/Lucide%20React-F7A600?style=for-the-badge&logo=lucide&logoColor=white)](https://lucide.dev/)
-[![React Toastify](https://img.shields.io/badge/React_Toastify-ff8800?style=for-the-badge&logo=react&logoColor=white)](https://fkhadra.github.io/react-toastify/)
-[![React PDF Renderer](https://img.shields.io/badge/React_PDF-FF5252?style=for-the-badge)](https://react-pdf.org/)
-[![qrcode.react](https://img.shields.io/badge/qrcode.react-2E7D32?style=for-the-badge)](https://github.com/zpao/qrcode.react)
-[![react-color](https://img.shields.io/badge/react--color-1976D2?style=for-the-badge)](https://github.com/casesandberg/react-color)
-<!-- [![Framer Motion](https://img.shields.io/badge/Framer_Motion-EF008F?style=for-the-badge&logo=framer&logoColor=white)](https://www.framer.com/motion/) 
-[![Tiptap](https://img.shields.io/badge/Tiptap-6C63FF?style=for-the-badge)](https://tiptap.dev/)
-[![Recharts](https://img.shields.io/badge/Recharts-FF4A00?style=for-the-badge)](https://recharts.org/)
-[![React Day Picker](https://img.shields.io/badge/React_Day_Picker-90CDF4?style=for-the-badge)](https://react-day-picker.js.org/)
-[![React DOM](https://img.shields.io/badge/React_DOM-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![date-fns](https://img.shields.io/badge/date--fns-ff9800?style=for-the-badge)](https://date-fns.org/)
-[![Moment.js](https://img.shields.io/badge/Moment.js-4A4A4A?style=for-the-badge)](https://momentjs.com/)
-[![Tailwind Merge](https://img.shields.io/badge/Tailwind_Merge-38B2AC?style=for-the-badge)](https://github.com/dcastil/tailwind-merge)
-[![Tailwind CSS Animate](https://img.shields.io/badge/Tailwind_Animate-06B6D4?style=for-the-badge)](https://github.com/benface/tailwindcss-animate)
-[![React Select](https://img.shields.io/badge/React_Select-2684FF?style=for-the-badge&logo=react&logoColor=white)](https://react-select.com/)
-[![React Day Picker](https://img.shields.io/badge/React_Day_Picker-90CDF4?style=for-the-badge)](https://react-day-picker.js.org/)
--->
-
-</div>
-
-<div align="center">
-
-[![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)](https://nodemon.io/)
-[![bcrypt](https://img.shields.io/badge/bcrypt-4E9CAF?style=for-the-badge&logo=lock&logoColor=white)](https://github.com/kelektiv/node.bcrypt.js)
-[![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)](https://jwt.io/)
-[![dotenv](https://img.shields.io/badge/dotenv-00AF91?style=for-the-badge&logo=dotenv&logoColor=white)](https://github.com/motdotla/dotenv)
-[![Nodemailer](https://img.shields.io/badge/Nodemailer-3C3C3C?style=for-the-badge&logo=minutemailer&logoColor=white)](https://nodemailer.com)
-[![Swagger UI Express](https://img.shields.io/badge/Swagger_UI_Express-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](https://www.npmjs.com/package/swagger-ui-express)
-[![Helmet](https://img.shields.io/badge/Helmet-000000?style=for-the-badge&logo=express&logoColor=white)](https://www.npmjs.com/package/helmet)
-[![Morgan](https://img.shields.io/badge/Morgan-29B6F6?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/morgan)
-[![Express Rate Limit](https://img.shields.io/badge/Express_Rate_Limit-F57C00?style=for-the-badge&logo=express&logoColor=white)](https://www.npmjs.com/package/express-rate-limit)
-[![Compression](https://img.shields.io/badge/Compression-00C853?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/compression)
-
-<!--
-[![Express Validator](https://img.shields.io/badge/Express_Validator-00ACC1?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/express-validator)
--->
-
 </div>
 
 <div align="center">
