@@ -33,9 +33,9 @@
 
 <div align="center">
   
-# My Tech Stack
+# 🛠️ My Tech Stack 
 
-## Frontend Technologies 
+## 🎨 Frontend Technologies 
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.com/)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -58,11 +58,10 @@
 
 <div align="center">
 
-## Backend Technologies & Databases
+## 🖥️ Backend Technologies & Databases
 
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-[![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)](https://mongoosejs.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Multer](https://img.shields.io/badge/Multer-FF9900?style=for-the-badge&logo=express&logoColor=white)](https://github.com/expressjs/multer)
 [![Socket.IO](https://img.shields.io/badge/Socket.IO-000000?style=for-the-badge&logo=socket.io&logoColor=white)](https://socket.io/docs/v4/server-api/)
@@ -71,7 +70,7 @@
 
 <div align="center">
 
-## Tools
+## 🧩 Tools
 
 <a href="https://code.visualstudio.com/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" />
@@ -98,7 +97,7 @@
 </div>
 <div align="center">
 
-## Other Libraries
+## 📚 Other Libraries
 
 [![Formik](https://img.shields.io/badge/Formik-2C8EBB?style=for-the-badge&logo=formik&logoColor=white)](https://formik.org/)
 [![Yup](https://img.shields.io/badge/Yup-4CAF50?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/jquense/yup)
@@ -133,7 +132,6 @@
 [![dotenv](https://img.shields.io/badge/dotenv-00AF91?style=for-the-badge&logo=dotenv&logoColor=white)](https://github.com/motdotla/dotenv)
 [![Nodemailer](https://img.shields.io/badge/Nodemailer-3C3C3C?style=for-the-badge&logo=minutemailer&logoColor=white)](https://nodemailer.com)
 [![Swagger UI Express](https://img.shields.io/badge/Swagger_UI_Express-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](https://www.npmjs.com/package/swagger-ui-express)
-[![Swagger Autogen](https://img.shields.io/badge/Swagger_Autogen-4B32C3?style=for-the-badge&logo=swagger&logoColor=white)](https://www.npmjs.com/package/swagger-autogen)
 [![Helmet](https://img.shields.io/badge/Helmet-000000?style=for-the-badge&logo=express&logoColor=white)](https://www.npmjs.com/package/helmet)
 [![Morgan](https://img.shields.io/badge/Morgan-29B6F6?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/morgan)
 [![Express Rate Limit](https://img.shields.io/badge/Express_Rate_Limit-F57C00?style=for-the-badge&logo=express&logoColor=white)](https://www.npmjs.com/package/express-rate-limit)
@@ -147,7 +145,8 @@
 
 <div align="center">
   
-# 🏆 GitHub Profile Trophies
+## 🏆 GitHub Profile Trophies
+
 [![Trophies](https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=adityaspaudel&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
@@ -156,16 +155,16 @@
 
 ### Contributions
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-contributor-stats.vercel.app/api?username=adityaspaudel&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-    </td>
-    <td align="center" style="padding-left: 20px;">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=adityaspaudel&theme=dark&hide_border=false" />
-    </td>
-  </tr>
-</table>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-contributor-stats.vercel.app/api?username=adityaspaudel&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+      </td>
+      <td align="center" style="padding-left: 20px;">
+        <img src="https://nirzak-streak-stats.vercel.app/?user=adityaspaudel&theme=dark&hide_border=false" />
+      </td>
+    </tr>
+  </table>
 
 </div>
 
