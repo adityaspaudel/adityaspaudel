@@ -145,6 +145,8 @@
 
 </div>
 
+<div align="center">
+  
 # 🏆 GitHub Profile Trophies
 [![Trophies](https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=adityaspaudel&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -165,10 +167,7 @@
   </tr>
 </table>
 
-
-
-
-
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
