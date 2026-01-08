@@ -12,19 +12,19 @@
 
   <!-- Official Logos -->
   <a href="mailto:adityaspaudel@gmail.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/gmail/D14836" alt="Gmail" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/gmail/D14836" alt="Gmail" width="50" height="50"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/adityaspaudel/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://twitter.com/Adityaspaudel" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
+  <a href="https://twitter.com/adityaspaudel" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="50" height="50"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://instagram.com/adityas.paudel" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="50" height="50"/>
   </a>
 
   <br/><br/>
@@ -33,8 +33,6 @@
 
 <div align="center">
   
-
-
 # My Tech Stack
 
 ## Frontend Technologies 
@@ -55,6 +53,11 @@
 [![Fetch API](https://img.shields.io/badge/Fetch_API-0096FF?style=for-the-badge&logo=web&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 [![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)](https://axios-http.com/)
 
+</div>
+
+
+<div align="center">
+
 ## Backend Technologies & Databases
 
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
@@ -64,28 +67,50 @@
 [![Multer](https://img.shields.io/badge/Multer-FF9900?style=for-the-badge&logo=express&logoColor=white)](https://github.com/expressjs/multer)
 [![Socket.IO](https://img.shields.io/badge/Socket.IO-000000?style=for-the-badge&logo=socket.io&logoColor=white)](https://socket.io/docs/v4/server-api/)
 
+</div>
 
+<div align="center">
 
-## Other Libraries and Tools
+## Tools
 
-[![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
-[![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)](https://pnpm.io/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+<a href="https://code.visualstudio.com/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" />
+</a>
+<a href="https://www.npmjs.com/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="50" />
+</a>
+<a href="https://pnpm.io/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pnpm/pnpm-original-wordmark.svg" width="50" />
+</a>
+<a href="https://git-scm.com/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" />
+</a>
+
+<a href="https://github.com/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" />
+</a>
+<a href="https://www.postman.com/">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" />
+</a>
+<a href="https://developer.chrome.com/docs/devtools/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" width="50" />
+</a>
+</div>
+<div align="center">
+
+## Other Libraries
+
 [![Formik](https://img.shields.io/badge/Formik-2C8EBB?style=for-the-badge&logo=formik&logoColor=white)](https://formik.org/)
 [![Yup](https://img.shields.io/badge/Yup-4CAF50?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/jquense/yup)
+[![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)](https://www.chartjs.org/)
 [![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge)](https://ui.shadcn.com/)
 [![React Icons](https://img.shields.io/badge/React%20Icons-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react-icons.github.io/react-icons/)
 [![Lucide React](https://img.shields.io/badge/Lucide%20React-F7A600?style=for-the-badge&logo=lucide&logoColor=white)](https://lucide.dev/)
-[![Radix UI](https://img.shields.io/badge/Radix_UI-000000?style=for-the-badge&logo=radix-ui&logoColor=white)](https://www.radix-ui.com/)
 [![React Toastify](https://img.shields.io/badge/React_Toastify-ff8800?style=for-the-badge&logo=react&logoColor=white)](https://fkhadra.github.io/react-toastify/)
-[![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)](https://www.chartjs.org/)
 [![React PDF Renderer](https://img.shields.io/badge/React_PDF-FF5252?style=for-the-badge)](https://react-pdf.org/)
 [![qrcode.react](https://img.shields.io/badge/qrcode.react-2E7D32?style=for-the-badge)](https://github.com/zpao/qrcode.react)
 [![react-color](https://img.shields.io/badge/react--color-1976D2?style=for-the-badge)](https://github.com/casesandberg/react-color)
-[![Framer Motion](https://img.shields.io/badge/Framer_Motion-EF008F?style=for-the-badge&logo=framer&logoColor=white)](https://www.framer.com/motion/)
-<!--
+<!-- [![Framer Motion](https://img.shields.io/badge/Framer_Motion-EF008F?style=for-the-badge&logo=framer&logoColor=white)](https://www.framer.com/motion/) 
 [![Tiptap](https://img.shields.io/badge/Tiptap-6C63FF?style=for-the-badge)](https://tiptap.dev/)
 [![Recharts](https://img.shields.io/badge/Recharts-FF4A00?style=for-the-badge)](https://recharts.org/)
 [![React Day Picker](https://img.shields.io/badge/React_Day_Picker-90CDF4?style=for-the-badge)](https://react-day-picker.js.org/)
@@ -94,10 +119,13 @@
 [![Moment.js](https://img.shields.io/badge/Moment.js-4A4A4A?style=for-the-badge)](https://momentjs.com/)
 [![Tailwind Merge](https://img.shields.io/badge/Tailwind_Merge-38B2AC?style=for-the-badge)](https://github.com/dcastil/tailwind-merge)
 [![Tailwind CSS Animate](https://img.shields.io/badge/Tailwind_Animate-06B6D4?style=for-the-badge)](https://github.com/benface/tailwindcss-animate)
-
 [![React Select](https://img.shields.io/badge/React_Select-2684FF?style=for-the-badge&logo=react&logoColor=white)](https://react-select.com/)
 [![React Day Picker](https://img.shields.io/badge/React_Day_Picker-90CDF4?style=for-the-badge)](https://react-day-picker.js.org/)
 -->
+
+</div>
+
+<div align="center">
 
 [![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)](https://nodemon.io/)
 [![bcrypt](https://img.shields.io/badge/bcrypt-4E9CAF?style=for-the-badge&logo=lock&logoColor=white)](https://github.com/kelektiv/node.bcrypt.js)
@@ -110,9 +138,12 @@
 [![Morgan](https://img.shields.io/badge/Morgan-29B6F6?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/morgan)
 [![Express Rate Limit](https://img.shields.io/badge/Express_Rate_Limit-F57C00?style=for-the-badge&logo=express&logoColor=white)](https://www.npmjs.com/package/express-rate-limit)
 [![Compression](https://img.shields.io/badge/Compression-00C853?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/compression)
+
 <!--
 [![Express Validator](https://img.shields.io/badge/Express_Validator-00ACC1?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/express-validator)
 -->
+
+</div>
 
 # 🏆 GitHub Profile Trophies
 [![Trophies](https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=adityaspaudel&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
@@ -136,7 +167,6 @@
 
 
 
-</div>
 
 
 
