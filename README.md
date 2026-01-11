@@ -1,6 +1,13 @@
   
-# 👋 Hi there, I'm Aaditya Paudel  
-🚀 Full-Stack MERN Developer | Lifelong Learner  
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=720&cursor=true&lines=💻+MERN+Full-Stack+Developer;⚛️+React+%7C+Next.js+%7C+Express.js+%7C+Mongodb;🧠+Building+Scalable+Web+Applications;🌱+Always+Learning+MERN+Technologies"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
+
 
 - 🎓 A **Bachelor of Computer Application (BCA) Graduate** with a strong passion for **web development**.  
 - 💻 Skilled in **JavaScript**, **React.js**, **Next.js**, **Node.js**, **Express.js** and **MongoDB**.  
