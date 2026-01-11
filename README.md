@@ -1,12 +1,10 @@
   
-  <p align="center">
+<p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&repeat=true&width=760&cursor=true&lines=🚀+Full-Stack+MERN+Developer;⚛️+React+%7C+Next.js+%7C+Express.js+%7C+Mongodb.js;🧠+Designing+Scalable+Web+Solutions;🌱+Continuously+Learning+MERN+Technologies"
-      alt="Typing animation"
-    />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&repeat=true&width=760&cursor=true&lines=🚀+Full-Stack+MERN+Developer;⚛️+React+%7C+Next.js+%7C+Node.js;🧠+Designing+Scalable+Web+Solutions;🌱+Continuously+Learning+MERN+Technologies" alt="Typing SVG" />
   </a>
 </p>
+
 
 
 - 🎓 A **Bachelor of Computer Application (BCA) Graduate** with a strong passion for **web development**.  
