@@ -169,12 +169,20 @@
 
 ### Contributions
 
-
+  <td>
+   <img
+    src="https://beautiful-github-homepage.vercel.app/api/?username=adityaspaudel&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"
+    alt="Aditya Spaudel GitHub Stats"
+  />
+  </td>
   <td align="center" style="padding-left: 20px;">
     <img src="https://nirzak-streak-stats.vercel.app/?user=adityaspaudel&theme=dark&hide_border=false" />
   </td>
 
 </div>
+
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
