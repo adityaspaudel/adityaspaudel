@@ -77,6 +77,7 @@
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Multer](https://img.shields.io/badge/Multer-FF9900?style=for-the-badge&logo=express&logoColor=white)](https://github.com/expressjs/multer)
+[![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)](https://www.npmjs.com/package/cloudinary)
 [![Socket.IO](https://img.shields.io/badge/Socket.IO-000000?style=for-the-badge&logo=socket.io&logoColor=white)](https://socket.io/docs/v4/server-api/)
 
 </div>
@@ -172,7 +173,7 @@
   <td>
    <img
     src="https://beautiful-github-homepage.vercel.app/api/?username=adityaspaudel&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"
-    alt="Aditya Spaudel GitHub Stats"
+    alt="Aaditya Spaudel GitHub Stats"
   />
   </td>
   <td align="center" style="padding-left: 20px;">
