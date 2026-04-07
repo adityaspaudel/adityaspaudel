@@ -176,9 +176,9 @@
     alt="Aaditya Spaudel GitHub Stats"
   />
   </td>
-  <td align="center" style="padding-left: 20px;">
+  <!-- <td align="center" style="padding-left: 20px;">
     <img src="https://nirzak-streak-stats.vercel.app/?user=adityaspaudel&theme=dark&hide_border=false" />
-  </td>
+  </td> -->
 
 </div>
 
